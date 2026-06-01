@@ -41,7 +41,7 @@ Raw Data → Excel (Explore) → Python (Clean) → MySQL (Analyze) → Power BI
 ## 📁 Files in Repository
 | File | Description |
 |---|---|
-| bank_churn_cleaned.ipynb | Python data cleaning script |
+| Bank_churn_cleaned.ipynb | Python data cleaning script |
 | bank_churn_queries.sql | MySQL analysis queries |
 | Customer-Churn-Records.csv | Original Kaggle dataset |
 | dashboard_screenshot1.png | Main dashboard view |
